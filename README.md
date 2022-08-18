@@ -4,4 +4,4 @@
 
 ### Odev 1: Universite Yönetim Sistemi
 
-![Universite Yonetim Sistemi](universite.drawio.pdf)
+![Universite Yonetim Sistemi](/universite.drawio.pdf)
